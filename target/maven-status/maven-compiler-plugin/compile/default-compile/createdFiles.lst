@@ -1,0 +1,12 @@
+fr/wotoyandi/model/User$UserBuilder.class
+fr/wotoyandi/odt/UserOdt$UserOdtBuilder.class
+fr/wotoyandi/repositories/AuthRepository.class
+fr/wotoyandi/resource/AbstractController.class
+fr/wotoyandi/util/CustomErrorType.class
+fr/wotoyandi/model/User.class
+fr/wotoyandi/resource/AuthenticationController.class
+fr/wotoyandi/odt/UserOdt.class
+fr/wotoyandi/ApiRunner.class
+fr/wotoyandi/configuration/JpaConfiguration.class
+fr/wotoyandi/service/impl/AuthServiceImpl.class
+fr/wotoyandi/service/impl/AuthService.class

@@ -1,0 +1,9 @@
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/service/impl/AuthServiceImpl.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/configuration/JpaConfiguration.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/util/CustomErrorType.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/repositories/AuthRepository.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/controller/AuthenticationController.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/model/User.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/Runner.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/odt/UserOdt.java
+/Users/macbookpro/Documents/wotoyandi/wotoyandi-api/src/main/java/fr/wotoyandi/service/AuthService.java
